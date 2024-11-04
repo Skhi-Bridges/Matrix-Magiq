@@ -7,6 +7,7 @@
 
 
 🌌 **Powered by a Unified Field Esoteric Predictive Model** 🌌
+        AKA 'The Ark of the Covenant Divinatory Gift Set'
 
 Matrix Magiq is a revolutionary platform unlike anything you've ever experienced.  It seamlessly blends the wisdom of esoteric traditions with the cutting-edge power of AI, creating a personalized RPG that guides you towards unlocking your true potential.
 
