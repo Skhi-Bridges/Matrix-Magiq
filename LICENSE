@@ -195,6 +195,7 @@ Interpretation of Sections 15 and 16.
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
 END OF TERMS AND CONDITIONS
+
 How to Apply These Terms to Your New Programs
 If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.
 
@@ -208,22 +209,25 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see https://www.gnu.org/licenses/.
+
 Also add information on how to contact you by electronic and paper mail.
 
 Copy
-skhibridges@skhibridges.com  
-Skhi Bridges  
-6061 Firestone Blvd #104/281  
-Longmont, CO 80504  
+skhibridges@skhibridges.com
+Skhi Bridges
+6061 Firestone Blvd #104/281
+Longmont, CO 80504
+
 Additional Provisions for Enhanced Protection and Financial Benefits
+
 Profit Sharing:
 
 Any commercial use of the Program or any derivative works must include a provision to share a percentage of the profits generated from such use with the original author. The percentage shall be determined by the original author and clearly stated in the license agreement.
 
 Mandatory Updates:
 
-Any modifications, enhancements, or improvements made to the Program must be shared with the original author. The original author reserves the right to incorporate these updates into the main project and distribute them under the terms of this License.
+All modifications, enhancements, or improvements made to the Program or any derivative works must be contributed back to the original author. These contributions must be provided in the form of source code and be made available under the same terms as the original Program. The original author reserves the right to incorporate these updates into the main project and distribute them under the terms of this License. Failure to comply with this clause will result in the termination of rights granted under this License.
 
 Attribution and Links:
 
@@ -240,6 +244,23 @@ If the Program is used in the context of blockchain applications, the following 
 Any modifications, enhancements, or improvements made to the Program for blockchain applications must be shared with the original author.
 The original author reserves the right to incorporate these updates into the main project and distribute them under the terms of this License.
 Any commercial use of the Program or any derivative works in the context of blockchain applications must include a provision to share a percentage of the profits generated from such use with the original author. The percentage shall be determined by the original author and clearly stated in the license agreement.
+
 Commons Clause:
 
 The use of the Program is restricted to entities that do not engage in activities contrary to the principles of human rights and promoting the growth and betterment of the human race.
+
+Dispute Resolution:
+
+Arbitration Clause: Any disputes arising out of or relating to this License shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in [Your Preferred Location], and the decision of the arbitrator shall be final and binding on all parties.
+
+Non-Compete Clause:
+
+Restrictions on Competing Projects: Contributors to the Program are prohibited from using the Program or any derivative works to create competing projects without the explicit written permission of the original author.
+
+Security and Privacy:
+
+Data Protection: Contributors and users of the Program must comply with all applicable data protection regulations, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). Contributors and users must implement appropriate technical and organizational measures to protect the security and privacy of any personal data processed by the Program.
+
+Maintenance and Support:
+
+Obligations for Support: Contributors are obligated to provide support and maintenance for their contributions for a period of [determine by best practices, e.g., 1 year] from the date of contribution. This obligation includes responding to bug reports, providing updates, and addressing security vulnerabilities.
