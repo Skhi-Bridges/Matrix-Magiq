@@ -23,13 +23,11 @@ Matrix Magiq is a revolutionary platform unlike anything you've ever experienced
 
 ## 🚀 Getting Started 🚀
 
-**Experience Matrix Magiq with Gitpod (Coming Soon!)** ☁️  We're making it easier than ever to access this transformative platform.  Click the button below to launch Matrix Magiq in your browser with Gitpod:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/your-github-username/MatrixMagiq) 
 
 ## ✨ How to Use ✨
 
-Matrix Magiq will guide you through an immersive RPG experience. The AI companion will provide insights, and support along the way.
+Matrix Magiq will guide you through an immersive RPG experience. The AI companion will provide insights, and support along the way with the realtime knowledge you need for gameplay and personal development.
 
 ## 📬 Contact 📬
 
