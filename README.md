@@ -29,19 +29,9 @@ Matrix Magiq is a revolutionary platform unlike anything you've ever experienced
 
 ## ✨ How to Use ✨
 
-Matrix Magiq will guide you through an immersive RPG experience. You'll create a personalized character, embark on quests, and make choices that shape your journey towards self-improvement.  The AI companion will provide insights, challenges, and support along the way.
-
-## 🤝 Contributing 🤝
-
-We welcome contributions from the community!  Please review the [AGPL3 License](LICENSE) for guidelines on how to contribute to this project.  
-
-## 📜 License 📜
-
-This project is licensed under the GNU Affero General Public License (AGPL3). See the [LICENSE](LICENSE) file for details.
+Matrix Magiq will guide you through an immersive RPG experience. The AI companion will provide insights, and support along the way.
 
 ## 📬 Contact 📬
-
-Have questions or need support? Reach out to us!
 
 * **Email:** [skhibridges@skhibridges.com](mailto:skhibridges@skhibridges.com)
 
